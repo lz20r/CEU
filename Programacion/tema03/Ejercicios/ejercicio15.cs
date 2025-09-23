@@ -1,4 +1,4 @@
-// Escribe un programa que visualice por pantalla la tabla de multiplicar de los 10 primeros
+// 4.7 Escribe un programa que visualice por pantalla la tabla de multiplicar de los 10 primeros
 // números naturales
 
 using System;
